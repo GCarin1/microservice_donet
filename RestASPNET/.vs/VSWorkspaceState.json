@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\RestASPNET",
+    "\\RestASPNET\\bin\\Debug",
+    "\\RestASPNET\\bin\\Debug\\net7.0",
+    "\\RestASPNET\\Controllers",
+    "\\RestASPNET\\obj",
+    "\\RestASPNET\\Properties"
+  ],
+  "SelectedNode": "\\RestASPNET\\WeatherForecast.cs",
+  "PreviewInSolutionExplorer": false
+}
